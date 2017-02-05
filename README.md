@@ -1,4 +1,3 @@
 # rundeck_2
 
-TODO: Enter the cookbook description here.
-
+Installs and configures [Rundeck](http://rundeck.org/).
